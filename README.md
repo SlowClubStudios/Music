@@ -1,2 +1,2 @@
-# Uptime
-Bot Uptime!
+# Music
+Bot Music!
